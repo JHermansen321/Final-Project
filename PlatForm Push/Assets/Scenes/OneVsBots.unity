@@ -655,7 +655,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f07656d22e7b5134ea9715b66bbcae16, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  levelToLoad: OneVsBots
+  levelToLoad: GameOver
 --- !u!4 &1457306992
 Transform:
   m_ObjectHideFlags: 0
