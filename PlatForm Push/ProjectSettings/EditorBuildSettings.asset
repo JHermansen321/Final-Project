@@ -24,6 +24,9 @@ EditorBuildSettings:
     path: Assets/Scenes/onevsone.unity
     guid: b9d5b1661f941274d91d3728404f03a7
   - enabled: 1
+    path: Assets/Scenes/GameOver2.unity
+    guid: 45f0858dd42e0d8438e6bb1df5f7bef9
+  - enabled: 1
     path: Assets/Scenes/GameOver.unity
     guid: 7a2b2e656732c28498b6147259bac150
   m_configObjects: {}

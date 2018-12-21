@@ -429,7 +429,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f07656d22e7b5134ea9715b66bbcae16, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  levelToLoad: GameOver
+  levelToLoad1: GameOver
+  levelToLoad2: GameOver2
 --- !u!4 &1457306992
 Transform:
   m_ObjectHideFlags: 0
@@ -566,7 +567,7 @@ Prefab:
       objectReference: {fileID: 2100000, guid: 37e8f0dcd03fa494ca76aae1d3b14e5b, type: 2}
     - target: {fileID: 1847777641597936, guid: a8b2d5fc8d53f254ea41bf9b46ca3531, type: 2}
       propertyPath: m_TagString
-      value: Player
+      value: Player2
       objectReference: {fileID: 0}
     - target: {fileID: 4217590946823232, guid: a8b2d5fc8d53f254ea41bf9b46ca3531, type: 2}
       propertyPath: m_LocalScale.x
@@ -633,7 +634,7 @@ Prefab:
       objectReference: {fileID: 2100000, guid: d3909b76aa50f704f9131c6503a34d68, type: 2}
     - target: {fileID: 1425246592019902, guid: 465fd7de40529bf46b037c865b470203, type: 2}
       propertyPath: m_TagString
-      value: Player
+      value: Player1
       objectReference: {fileID: 0}
     - target: {fileID: 4467583590676342, guid: 465fd7de40529bf46b037c865b470203, type: 2}
       propertyPath: m_LocalScale.x
